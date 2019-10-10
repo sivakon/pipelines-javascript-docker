@@ -5,7 +5,7 @@ trigger:
 #  vmImage: 'Ubuntu-16.04'
 
 pool:
-  name: 'trvbatch'
+  name: 'simple'
 
 variables:
   imageName: 'pipelines-javascript-docker'
